@@ -12,6 +12,12 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 2. MARCO TEÓRICO
 
+2.1. LA FORMA DE ONDA SINUSOIDAL
+
+![Mapas mentales con líneas (5)](https://user-images.githubusercontent.com/94008521/149238708-8b89a5e5-a806-402c-8fa8-d747f1d60292.png)
+
+2.2. 
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 4. VIDEO
