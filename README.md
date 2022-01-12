@@ -12,6 +12,11 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 2. MARCO TEÓRICO
 
+2.1. LA FORMA DE ONDA SINUSOIDAL
+
+![ Mapas mentales con lineas (5) ](https://user-images.githubusercontent.com/94008521/149238708-8b89a5e5-a806-402c-8fa8-d747f1d60292.png)
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO 11
@@ -131,6 +136,7 @@ SECCIÓN 11–10 El osciloscopio
 
 
 45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrada en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
+
 
 
 4. VÍDEO
