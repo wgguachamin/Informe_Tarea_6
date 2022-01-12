@@ -16,6 +16,13 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 ![ Mapas mentales con lineas (5) ](https://user-images.githubusercontent.com/94008521/149238708-8b89a5e5-a806-402c-8fa8-d747f1d60292.png)
 
+2.2. VALORES SINUSOIDALES DE VOLTAJE Y CORRIENTE
+
+![Mapa conceptual (2)](https://user-images.githubusercontent.com/94008521/149241279-55ea8947-0681-4c02-8b7c-0ac07aee19c2.png)
+
+2.3. MEDICIÓN ANGULAR DE UNA ONDA SENO
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
