@@ -99,9 +99,15 @@ SECCIÓN 11–5 La fórmula de la onda seno
 
 21. Cierta onda seno tiene frecuencia de 2.2 kHz y valor rms de 25 V. Suponiendo que se inicia un ciclo dado (cruce por cero) en el instante t = 0 s, ¿cuál es el cambio de voltaje desde 0.12 ms hasta 0.2 ms?
 
+![image](https://user-images.githubusercontent.com/93415377/149261001-4b75408f-229b-4d0c-8b7c-0ad65b0cd521.png)
+
+
 SECCIÓN 11–6 Introducción a los fasores
 
 23.Trace las ondas seno representadas por el diagrama fasorial de la figura 11-79. Las longitudes del fasor representan valores pico.
+
+![image](https://user-images.githubusercontent.com/93415377/149260977-c2288741-e757-4e22-ba0d-1ab840573e30.png)
+
 
 25.Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
@@ -109,6 +115,9 @@ SECCIÓN 11–6 Introducción a los fasores
 SECCIÓN 11–7 Análisis de circuitos de ca
 
 27.Encuentre los valores promedio en medio ciclo de los voltajes presentes entre los extremos de R1 y R2 en la figura 11-81. Todos los valores mostrados son rms.
+
+![image](https://user-images.githubusercontent.com/93415377/149260954-5aaa3842-51e6-40fc-9f3d-5a602b407d4c.png)
+
 
 SECCIÓN 11–8 Voltajes superpuestos de cd y de ca
 
@@ -158,6 +167,10 @@ SECCIÓN 11–10 El osciloscopio
 
 45. Examine la tarjeta prototipo y la pantalla del osciloscopio mostrada en la figura 11-91 y determine el valor pico y la frecuencia de la señal de entrada desconocida.
 
+  ![image](https://user-images.githubusercontent.com/93415377/149261053-9f5f3757-ce98-4e69-84ba-0ed5e852b433.png)
+
+
+![image](https://user-images.githubusercontent.com/93415377/149261069-165a7bba-159d-4e09-95f6-3d6d1e0bfb7a.png)
 
 
 4. VÍDEO
