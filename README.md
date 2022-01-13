@@ -186,9 +186,18 @@ SECCIÓN 11–10 El osciloscopio
 
 ![image](https://user-images.githubusercontent.com/93415377/149261069-165a7bba-159d-4e09-95f6-3d6d1e0bfb7a.png)
 
-
 4. VÍDEO
 
 5. CONCLUSIONES
+
+-	Existen 5 formas de expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente, entre estas están: el valor instantáneo, estos son positivos durante la alternación positiva y negativos durante la alternación negativa; el valor pico, este es el valor de voltaje o corriente en el punto máximo positivo o negativo; el valor pico – pico, es el voltaje o corriente desde el pico positivo hasta el pico negativo; valor RMS, es una medida del efecto de calentamiento de la onda seno; y por último, el valor promedio, este debe ser tomado durante un ciclo completo, por lo cual, su valor siempre es cero, dado que los valores positivos de la onda neutralizan los valores negativos de la misma.
+-	Con referencia a las formas de ondas se tiene que existen las siguientes: pulsos repetitivos, es cualquier onda que se repite a intervalos fijos por lo que es periódica; ondas cuadradas, es una onda de forma pulsante con un ciclo de trabajo del 50%; ondas triangulares, se compone de rampas positivas y negativas con pendientes iguales; ondas diente de sierra, son similares a la onda triangular, sin embargo, esta compuesta de dos rampas y una rampa tiene mucha más larga duración que la otra. De igual forma se deben mencionar las ondas armónicas entre las cuales están: armónicas pares, poseen frecuencias que son múltiplos pares; armónicas impares, poseen frecuencias que son múltiplos impares y, por último, la onda compuesta es cualquier variación que parte de una onda seno pura, pero produce armónicos.
+-	La capacitancia total en un circuito en serie es menor que el valor de la capacitancia más pequeña y su formula es similar a la utilizada para el calculo de la resistencia total de un circuito en paralelo, es decir la capacitancia total es igual a:
+
+![image](https://user-images.githubusercontent.com/94008521/149386805-828d6e0b-1d1a-4f1b-bff4-1b1abe1ec034.png)
+
+Por otro lado, la capacitancia total en un circuito en paralelo es la suma de todos los capacitores dispuestos en paralelo, y es representado de la siguiente forma:
+
+![image](https://user-images.githubusercontent.com/94008521/149386863-6ac77b54-2feb-4fae-8f15-9a1206caebbd.png)
 
 6. BIBLIOGRAFÍA
