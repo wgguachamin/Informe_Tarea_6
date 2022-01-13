@@ -201,3 +201,13 @@ Por otro lado, la capacitancia total en un circuito en paralelo es la suma de to
 ![image](https://user-images.githubusercontent.com/94008521/149386863-6ac77b54-2feb-4fae-8f15-9a1206caebbd.png)
 
 6. BIBLIOGRAFÍA
+
+-	Curra, G. (12 de Marzo de 2019). Obtenido de https://refrigeracionescobar.com.ar/el-capacitor-definicion-tipos-uso-circuitos-y-funcionamiento/
+-	Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+-	LATAM. (23 de Abril de 2021). Obtenido de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
+-	Planas, O. (09 de Agosto de 2016). Obtenido de https://solar-energia.net/electricidad/corriente-electrica/corriente-alterna
+-	R, J. L. (29 de Octubre de 2018). Obtenido de https://como-funciona.co/un-condensador/
+-	Reis, R. (09 de Diciembre de 2013). Obtenido de https://www.bbvaopenmind.com/ciencia/fisica/la-paradoja-de-olbers-y-las-ondas-electromagneticas/
+-	Ucha, F. (13 de Noviembre de 2012). Obtenido de https://www.definicionabc.com/ciencia/corriente-alterna.php
+
+
