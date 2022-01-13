@@ -32,6 +32,10 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 ![Cuadro sinóptico en blanco (3)](https://user-images.githubusercontent.com/94008521/149246758-ca3d69c8-e8b2-4961-a7c7-cbbef50f5fc7.png)
 
+2.6. FORMAS DE ONDA NO SINUSOIDALES
+
+![Mapa conceptual (5)](https://user-images.githubusercontent.com/94008521/149251897-8dc2f6e0-6604-492a-9ca3-ca6d8d4ec233.png)
+
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
