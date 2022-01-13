@@ -24,7 +24,9 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 ![Mapa conceptual (3)](https://user-images.githubusercontent.com/94008521/149242464-fe20910a-8f02-4863-922b-665c6d6cd5a5.png)
 
-2.4. LA FÓRMULA DE LA ONDA SENO
+2.4. INTRODUCCIÓN A LOS FASORES
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
