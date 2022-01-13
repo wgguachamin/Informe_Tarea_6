@@ -44,6 +44,11 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 ![Cuadro sinóptico en blanco (4)](https://user-images.githubusercontent.com/94008521/149335703-1a056ba3-9f97-4a2c-a28e-80af1df11d6e.png)
 
+2.9. CAPACITORES EN SERIE Y EN PARALELO - CAPACITORES EN CIRCUITOS DE CD Y CA
+
+![Mapas mentales con líneas (6)](https://user-images.githubusercontent.com/94008521/149341887-9802d4a9-8c30-48f6-8e93-b2d48262b4c2.png)
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
