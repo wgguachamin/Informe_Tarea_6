@@ -42,6 +42,8 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 2.8. TIPOS DE CAPACITORES
 
+![Cuadro sinóptico en blanco (4)](https://user-images.githubusercontent.com/94008521/149335703-1a056ba3-9f97-4a2c-a28e-80af1df11d6e.png)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
