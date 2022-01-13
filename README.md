@@ -30,6 +30,10 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 2.5. ANÁLISIS DE CIRCUITOS DE CA Y VOLTAJES SUPERPUESTOS DE CD Y DE CA
 
+![Cuadro sinóptico en blanco (3)](https://user-images.githubusercontent.com/94008521/149246758-ca3d69c8-e8b2-4961-a7c7-cbbef50f5fc7.png)
+
+
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 CAPITULO 11
