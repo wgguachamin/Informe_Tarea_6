@@ -26,7 +26,9 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 2.4. INTRODUCCIÓN A LOS FASORES
 
+![Mapa conceptual (4)](https://user-images.githubusercontent.com/94008521/149244995-26152bc1-79d2-4eb0-af13-042b3803ee69.png)
 
+2.5. ANÁLISIS DE CIRCUITOS DE CA Y VOLTAJES SUPERPUESTOS DE CD Y DE CA
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
