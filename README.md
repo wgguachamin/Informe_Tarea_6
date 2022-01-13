@@ -186,6 +186,11 @@ SECCIÓN 11–10 El osciloscopio
 
 ![image](https://user-images.githubusercontent.com/93415377/149261069-165a7bba-159d-4e09-95f6-3d6d1e0bfb7a.png)
 
+CAPITULO 12
+
+
+
+
 4. VÍDEO
 
 5. CONCLUSIONES
