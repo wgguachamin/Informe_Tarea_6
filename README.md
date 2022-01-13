@@ -48,7 +48,9 @@ Explicar la corriente alterna, el voltaje alterno y los circuitos con capacitore
 
 ![Mapas mentales con líneas (6)](https://user-images.githubusercontent.com/94008521/149341887-9802d4a9-8c30-48f6-8e93-b2d48262b4c2.png)
 
+2.10. CIRCUITOS DE CAPACITOR CONMUTADOS
 
+![Diagrama en blanco (5)](https://user-images.githubusercontent.com/94008521/149346390-85c960bd-3c17-469d-8f01-b4827ac673ba.png)
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
