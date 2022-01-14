@@ -125,6 +125,8 @@ SECCIÓN 11–6 Introducción a los fasores
 
 25.Determine el valor de la onda seno A mostrada en la figura 11-78 en cada uno de los tiempos siguientes, medido a partir del cruce por cero hacia positivo. Suponga una frecuencia de 5 kHz.
 
+![image](https://user-images.githubusercontent.com/93415377/149521860-d2213c7e-001b-47ba-8b5b-dab49ed84c7b.png)
+
 
 SECCIÓN 11–7 Análisis de circuitos de ca
 
