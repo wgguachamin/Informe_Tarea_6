@@ -522,6 +522,8 @@ Para determinar el valor des resistor que emula únicamente reemplazamos los val
 
 4. VÍDEO
 
+https://youtu.be/bqffiYKmAAI
+
 5. CONCLUSIONES
 
 -	Existen 5 formas de expresar el valor de una onda seno en función de su magnitud de voltaje o de su magnitud de corriente, entre estas están: el valor instantáneo, estos son positivos durante la alternación positiva y negativos durante la alternación negativa; el valor pico, este es el valor de voltaje o corriente en el punto máximo positivo o negativo; el valor pico – pico, es el voltaje o corriente desde el pico positivo hasta el pico negativo; valor RMS, es una medida del efecto de calentamiento de la onda seno; y por último, el valor promedio, este debe ser tomado durante un ciclo completo, por lo cual, su valor siempre es cero, dado que los valores positivos de la onda neutralizan los valores negativos de la misma.
